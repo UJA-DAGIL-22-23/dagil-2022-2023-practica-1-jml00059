@@ -8,7 +8,7 @@ Tus tareas consisten en:
 ### Javier Martínez López
 <img src='/vrivas-2022.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumno del grado en Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: vrivas@ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
