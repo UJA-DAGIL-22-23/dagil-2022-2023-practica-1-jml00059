@@ -9,7 +9,6 @@ Tus tareas consisten en:
 <img src='/vrivas-2022.png' width='200px'>
 
 Alumno del grado en Ingeniería Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
+* **Correo**: jml00059@red.ujaen.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
