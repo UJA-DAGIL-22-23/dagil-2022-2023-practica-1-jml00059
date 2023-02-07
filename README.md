@@ -10,5 +10,5 @@ Tus tareas consisten en:
 
 Alumno del grado en Ingeniería Informática de la Universidad de Jaén.
 * **Correo**: jml00059@red.ujaen.es
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/jml00059
 * **Trello**: https://trello.com/vrivas_ujaen_es
