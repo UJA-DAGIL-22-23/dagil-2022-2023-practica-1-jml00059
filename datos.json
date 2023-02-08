@@ -1,0 +1,13 @@
+{
+  "Nombre": "Javier Martínez López",
+  "Informacion del alumno": {
+    "Alumno del grado de Ingeniería Informática de la Universidad de Jaén.",
+    "Correo electrónico": "jml00059@red.ujaen.es",
+    "Enlace a github": "https://github.com/jml00059",
+    "Enlace a trello": "https://trello.com/u/javiermartinezlopez9"
+  },
+  "imagen": {
+    "url": "/fotomari.json",
+    "width": "200px"
+  }
+}
