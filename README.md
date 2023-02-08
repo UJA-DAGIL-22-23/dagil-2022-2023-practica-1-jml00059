@@ -8,12 +8,18 @@ Aquí se encuentra todo lo necesario a la documentación:
 * **GitHub**: https://github.com/jml00059
 * **Trello**: https://trello.com/u/javiermartinezlopez9
 
-Captura de pantalla al principio de trello:
+-Captura de pantalla al principio de trello:
+
+
 <img src='/portada.jpg' width='200px'>
 
-Captura de pantalla de pagina de github:
+-Captura de pantalla de pagina de github:
+
+
 <img src='github.jpg' width='200px'>
 
-Captura de pantalla final de Trello:
+-Captura de pantalla final de Trello:
+
+
 <img src='final.jpg' width='200px'>
 
